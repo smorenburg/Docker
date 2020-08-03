@@ -1,5 +1,4 @@
-# Docker General
-The general Docker repository.
+# Docker
 
 ## Ubuntu
 Container image based on Ubuntu 18.04 LTS. 
